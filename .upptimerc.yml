@@ -10,6 +10,14 @@ assignees:
 sites:
   - name: Website
     url: https://blissos.org
+  - name: Blog
+    url: https://blog.blissos.org
+    assignees:
+      - hmtheboy154
+  - name: Documentation
+    url: https://docs.blissos.org
+    assignees:
+      - hmtheboy154
 
 status-website:
   cname: status.blissos.org

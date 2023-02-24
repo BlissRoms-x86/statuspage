@@ -2,6 +2,11 @@
 owner: BlissRoms-x86
 repo: statuspage
 
+assignees:
+  - TechExhibeo
+  - ericswpark
+  - Jackeagle
+
 sites:
   - name: Website
     url: https://blissos.org

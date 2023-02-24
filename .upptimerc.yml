@@ -20,3 +20,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Homepage
       href: https://blissos.org
+
+commitMessages:
+  commitAuthorName: "BlissOS Bot"
+  commitAuthorEmail: "bot@blissos.org"

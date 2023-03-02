@@ -18,6 +18,10 @@ sites:
     url: https://docs.blissos.org
     assignees:
       - hmtheboy154
+  - name: Compatibility List
+    url: https://tested.blissos.org
+    assignees:
+      - hmtheboy154
 
 status-website:
   cname: status.blissos.org

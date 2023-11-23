@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 202,
-    "timeDay": 216,
-    "timeWeek": 187,
-    "timeMonth": 191,
-    "timeYear": 202,
+    "time": 203,
+    "timeDay": 296,
+    "timeWeek": 201,
+    "timeMonth": 193,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2023-07-31": 22
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.blissos.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.71%",
     "time": 198,
-    "timeDay": 211,
-    "timeWeek": 190,
-    "timeMonth": 212,
+    "timeDay": 305,
+    "timeWeek": 216,
+    "timeMonth": 217,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2023-03-02": 113,
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 201,
-    "timeWeek": 125,
-    "timeMonth": 165,
+    "timeDay": 175,
+    "timeWeek": 139,
+    "timeMonth": 163,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2023-10-03": 21
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 69,
-    "timeWeek": 188,
-    "timeMonth": 175,
+    "timeDay": 176,
+    "timeWeek": 198,
+    "timeMonth": 179,
     "timeYear": 181,
     "dailyMinutesDown": {}
   }

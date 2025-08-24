@@ -22,19 +22,19 @@
     "url": "https://blog.blissos.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.blissos.org.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 232,
-    "timeWeek": 236,
-    "timeMonth": 379,
+    "timeDay": 229,
+    "timeWeek": 234,
+    "timeMonth": 375,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-08-24": 0
+      "2025-08-24": 21
     }
   },
   {

@@ -43,19 +43,19 @@
     "url": "https://docs.blissos.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs.blissos.org.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 269,
-    "timeWeek": 275,
-    "timeMonth": 272,
+    "timeDay": 285,
+    "timeWeek": 278,
+    "timeMonth": 273,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 39
     }
   },
   {

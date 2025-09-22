@@ -22,9 +22,9 @@
     "url": "https://blog.blissos.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.blissos.org.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 282,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2025-09-22": 0,
       "2025-08-24": 21
     }
   },

@@ -63,17 +63,19 @@
     "url": "https://tested.blissos.org",
     "icon": "https://icons.duckduckgo.com/ip3/tested.blissos.org.ico",
     "slug": "compatibility-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 271,
-    "timeWeek": 243,
-    "timeMonth": 239,
-    "timeYear": 240,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 738,
+    "timeWeek": 363,
+    "timeMonth": 270,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   }
 ]

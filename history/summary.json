@@ -4,19 +4,19 @@
     "url": "https://blissos.org",
     "icon": "https://icons.duckduckgo.com/ip3/blissos.org.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 310,
-    "timeWeek": 278,
+    "timeDay": 273,
+    "timeWeek": 269,
     "timeMonth": 218,
-    "timeYear": 267,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 40
     }
   },
   {

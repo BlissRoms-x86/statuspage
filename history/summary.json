@@ -4,16 +4,16 @@
     "url": "https://blissos.org",
     "icon": "https://icons.duckduckgo.com/ip3/blissos.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "97.25%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 273,
-    "timeWeek": 269,
-    "timeMonth": 218,
+    "timeDay": 246,
+    "timeWeek": 259,
+    "timeMonth": 216,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-11-18": 40
@@ -65,17 +65,19 @@
     "url": "https://tested.blissos.org",
     "icon": "https://icons.duckduckgo.com/ip3/tested.blissos.org.ico",
     "slug": "compatibility-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 359,
-    "timeWeek": 285,
-    "timeMonth": 232,
+    "timeDay": 328,
+    "timeWeek": 286,
+    "timeMonth": 234,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
